@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -am "commit message"
+git log
+git status
+git branch "<new_branch>"
+git checkout "<new_branch>"
+git branch
+
