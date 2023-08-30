@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -am "commit message"
+git log
+git status
+git branch "<new_branch>"
+git checkout "<new_branch>"
+git branch
+git remote add <alise_origin> <git_url>
+git push <alise_orign> <branch_name>
+
