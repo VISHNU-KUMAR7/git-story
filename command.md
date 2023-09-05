@@ -17,3 +17,15 @@ git status
 
 Saving changes:
 git commit -am "Adding new feature"
+
+
+Branching:
+git branch
+git branch new-feature
+git branch -d old-feature
+git branch -m better-feature
+git checkout existing-branch
+git checkout -b fresh-branch
+
+
+
