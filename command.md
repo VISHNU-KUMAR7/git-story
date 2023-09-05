@@ -29,3 +29,10 @@ git checkout -b fresh-branch
 
 
 
+
+Collaboration:
+git remote add origin <remote-url>
+git pull origin main
+git fetch
+git merge feature-branch
+
