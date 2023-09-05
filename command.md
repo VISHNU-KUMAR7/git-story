@@ -36,3 +36,9 @@ git pull origin main
 git fetch
 git merge feature-branch
 
+
+
+Pushing and Sharing:
+git push origin new-feature
+
+
