@@ -42,3 +42,11 @@ Pushing and Sharing:
 git push origin new-feature
 
 
+Inspecting and comparing:
+git log feature-branch1 feature-branch2
+git log
+git log -follow file1
+git reflog
+
+
+
