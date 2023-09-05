@@ -14,3 +14,6 @@ git add .
 git diff 
 git diff --staged
 git status
+
+Saving changes:
+git commit -am "Adding new feature"
